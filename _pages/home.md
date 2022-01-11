@@ -14,8 +14,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>ScanNet Indoor Scene Understanding Challenge</h1></center>
-    <center><h2>CVPR 2019 Workshop, Long Beach, CA</h2></center>
-    <center>June 16, 2019; Hyatt Seaview B</center>
+    <center><h2>CVPR 2022 Workshop, New Orleans, LA</h2></center>
+    <center>Date TBD</center> <!-- location-->
   </div>
 </div>
 
@@ -64,12 +64,16 @@ acknowledgements: ""
         <strong>Scene type classification</strong>: classification of entire 3D room into a scene type
       </li>
     </ul>
+      <h3 style="color:orange;font-weight:800">Highlight - Data Efficient Challenge!</h3>
+    <p>In the data efficient challenge, training is conducted on  Limited Scene Reconstructions (LR) or Limited Scene Annotations (LA), for the tasks of 3D Semantic Segmentation, Instance Segmentation and Object Detection. 
+    </p>
     <p>
       For each task, challenge participants are provided with prepared training, validation, and test datasets, and automated evaluation scripts.
       In addition to the public train-val-test split, benchmarking is done on a hidden test set whose raw data can be downloaded without annotations; in order to participate in the benchmark, the predictions on the hidden test set are uploaded to the evaluation server, where they are evaluated.
       Submission is restricted to submissions every two weeks to avoid finetuning on the test dataset.
       See more details at <a href="http://kaldir.vc.in.tum.de/scannet_benchmark/documentation">http://kaldir.vc.in.tum.de/scannet_benchmark/documentation</a> if you would like to participate in the challenge.
       The evaluation server leaderboard is live at <a href="http://kaldir.vc.in.tum.de/scannet_benchmark/">http://kaldir.vc.in.tum.de/scannet_benchmark/</a>.
+      See the new data efficient <a href="http://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient/documentation">documentation</a> and <a href="http://kaldir.vc.in.tum.de/scannet_benchmark/data_efficient">leaderboard</a>!.
     </p>
   </div>
 </div>
@@ -101,33 +105,38 @@ acknowledgements: ""
   </div> -->
 </div>
 
+<!-- 
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
 </div>
-
+ -->
+ 
+<!-- 
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
+        <tr><td>TBD</td><td>TBD</td></tr>
         <tr>
           <td>Poster Submission Deadline</td>
-          <td>May 15 2019</td>
+          <td>May 20 2020</td>
         </tr>
         <tr>
           <td>Notification to Authors</td>
-          <td>May 20 2019</td>
+          <td>May 25 2020</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>June 16 2019</td>
+          <td>June 19 2020</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div><br>
-
+ -->
+<!-- 
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Posters</h2>
@@ -140,94 +149,104 @@ acknowledgements: ""
     </p>
   </div>
 </div><br>
+-->
 
-<div class="row">
+<div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Schedule</h2>
+    <h2>Schedule TBD</h2>
   </div>
 </div>
+<!--
 <div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
+        <tr><td></td><td>PDT</td><td>CEST</td></tr>
         <tr>
           <td>Welcome and Introduction</td>
-          <td>1:45pm - 2:00pm</td>
+          <td>8:50am - 9:00am</td><td>5:50pm - 6:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1: Jitendra Malik, <i>Seeing while moving and moving while seeing in a 3D world</i></td>
-          <td>2:00pm - 2:30pm</td>
+          <td>Neural Surface Representations (Niloy Mitra)</td>
+          <td>9:00am - 10:00am</td><td>6:00pm - 7:00pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 1 (MinkowskiNet / Chris Choy) </td>
-          <td>2:30pm - 2:45pm</td>
+          <td>Winner Talk: Point Cloud Instance Segmentation using Probabilistic Embeddings (Biao Zhang)</td>
+          <td>10:00am - 10:10am</td><td>7:00pm - 7:10pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2 (joint point-based / Hung-Yueh Chiang) </td>
-          <td>2:45pm - 3:00pm</td>
+          <td>Winner Talk: BPNet (Wenbo Hu) </td>
+          <td>10:10am - 10:20am</td><td>7:10pm - 7:20pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 3 (MTML / Jean Lahoud) </td>
-          <td>3:00pm - 3:15pm</td>
+          <td>Winner Talk: Virtual MVFusion (Abhijit Kundu) </td>
+          <td>10:20am - 10:30am</td><td>7:20pm - 7:30pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 4 (PanopticFusion / Gaku Narita) </td>
-          <td>3:15pm - 3:30pm</td>
+          <td>Offboard 3D Object Detection From Point Cloud Sequences (Charles Qi) </td>
+          <td>10:30am - 11:00am</td><td>7:30pm - 8:00pm</td>
         </tr>
         <tr>
-          <td>Break and poster session</td>
-          <td>3:30pm - 4:00pm</td>
+          <td>Towards Gigapixel 3D Imaging (Lu Fang) </td>
+          <td>11:00am - 11:30am</td><td>8:00pm - 8:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Leo Guibas, <i>Deep Learning on 3D Point Clouds</i></td>
-          <td>4:00pm - 4:30pm</td>
-        </tr>
-        <tr>
-          <td>Invited Talk 3: Denver Dash, <i>Deep 3D: The New Frontier of Computer Vision</i></td>
-          <td>4:30pm - 5:00pm</td>
+          <td>Transfer3D: Learning Transferrable Representations of 3D Scenes (Saining Xie)</td> 
+          <td>11:30am - 12:00pm</td><td>8:30pm - 9:00pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
-          <td>5:00pm - 5:30pm</td>
+          <td>12:00pm - 12:30pm</td><td>9:00pm - 9:30pm</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
+-->
 
 <br>
-<div class="row">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
   </div>
 </div><br>
 
+<!--
 <div class="row">
   <div class="col-md-12">
-    <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/leo.png" | prepend:site.baseurl }}"></a>
+    <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/niloy_mitra.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas J. Guibas</a></b> heads the Geometric Computation group in the Computer Science Department of Stanford University.  He is acting director of the Artificial Intelligence Laboratory and member of the Computer Graphics Laboratory, the Institute for Computational and Mathematical Engineering (iCME) and the Bio-X program.  His research centers on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. Professor Guibas' interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms --- all areas in which he has published and lectured extensively.
+      <b><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a></b> is a Professor of Geometry Processing in the Department of Computer Science, University College London (UCL). He received his MS and PhD in Electrical Engineering from Stanford University under the guidance of Leonidas Guibas and Marc Levoy, and was a postdoctoral scholar with Helmut Pottmann at Technical University Vienna. His research interests include shape analysis, computational design and fabrication, and geometry processing. Niloy received the 2013 ACM Siggraph Significant New Researcher Award for "his outstanding work in discovery and use of structure and function in 3D objects" (UCL press release), the BCS Roger Needham award (BCS press release) in 2015, and the Eurographics Outstanding Technical Contributions Award in 2019. He received the ERC Starting Grant on SmartGeometry in 2013. His work has twice been featured as research highlights in the Communications of the ACM, twice been selected by ACM Siggraph/Siggraph Asia (both in 2017) for press release as research highlight.
+    </p>
+  </div>
+</div><br>
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://charlesrqi.com"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/charles_qi.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://charlesrqi.com">Charles Qi</a></b> is a research scientist at Waymo LLC. Previously, he was a postdoctoral researcher at Facebook AI Research (FAIR) and  received his Ph.D. from Stanford University (Stanford AI Lab and Geometric Computation Group), advised by Professor Leonidas J. Guibas. Prior to Stanford, he received his B.Eng. from Tsinghua University. His research focuses on deep learning, computer vision and 3D. He has developed novel deep learning architectures for 3D data (point clouds, volumetric grids and multi-view images) that have wide applications in 3D object classification, object part segmentation, semantic scene parsing, scene flow estimation and 3D reconstruction; such deep architectures have been well adopted by both academic and industrial groups across the world. 
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}"></a>
+    <a href="http://www.luvision.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lu_fang.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. He is also on the faculty of the department of Bioengineering, and the Cognitive Science and Vision Science groups. During 2002-2004 he served as the Chair of the Computer Science Division, and as the Department Chair of EECS during 2004-2006 as well as 2016-2017. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park.
+      <b><a href="http://www.luvision.net/">Lu Fang</a></b> is an Associate Professor at Tsinghua University. She received her Ph.D from the Hong Kong University of Science and Technology in 2011, and her B.E. from Univ. of Science and Technology of China in 2007, respectively. Prof. Fang's research interests include computational imaging and 3D vision. Prof. Fang's research has been recognized by the NSFC Excellent Young Scholar Award, Multimedia Rising Star Award in ICME 2019, Best Student Paper Award in ICME 2017, and more. Prof. Fang is an currently IEEE Senior Member, and serving as an Associate Editor for IEEE TMM and TCSVT.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://occipital.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/denver.png" | prepend:site.baseurl }}"></a>
+    <a href="https://vcl.ucsd.edu/~sxie/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/saining_xie.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://occipital.com/">Denver Dash</a></b> is the Director of Machine Learning at Occipital, where he focuses on combining machine learning with geometric vision to solve problems in 3d perception. In 2014 he became a Principal Engineer and approximately employee number 80 at Magic Leap, where he grew the Machine Learning team from scratch. In 2016 he became the Director of Gesture Recognition and led the development of the hand tracking system that was put into production for Magic Leap One. Prior to Magic Leap, Denver was a Sr. Research Scientist at the Intel Research lab at Carnegie Mellon University, where he served as adjunct faculty at the Robotics Institute, developing novel multi-modal approaches for computer vision and generative models for causal reasoning.
+      <b><a href="https://vcl.ucsd.edu/~sxie/">Saining Xie</a></b> is a research scientist at Facebook AI Research (FAIR). He received a PhD in computer science from the University of California San Diego in 2018, advised by Zhuowen Tu. Prior to that, he received his B.S. from Shanghai Jiao Tong University in 2013. He has broad research interests in computer vision and deep learning, with a focus on representation learning for visual recognition in both 2D and 3D. He is a recipient of the Google Ph.D. fellowship in 2017 and the Marr Prize Honorable Mention award at ICCV 2015.
     </p>
   </div>
 </div><br>
+-->
 
 <div class="row">
   <div class="col-xs-12">
@@ -252,7 +271,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
-      <h6>Eloquent Labs, Simon Fraser University</h6>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
 
@@ -262,7 +281,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://msavva.github.io/">Manolis Savva</a>
-      <h6>Simon Fraser University, Facebook AI Research</h6>
+      <h6>Simon Fraser University</h6>
     </div>
   </div>
 
