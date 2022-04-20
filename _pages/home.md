@@ -153,7 +153,7 @@ acknowledgements: ""
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Schedule TBD</h2>
+    <h2>Schedule TBD</h2><!--<h2>Schedule (All times in CDT)</h2> -->
   </div>
 </div>
 <!--
@@ -161,42 +161,41 @@ acknowledgements: ""
   <div class="col-xs-12">
      <table class="table table-striped">
       <tbody>
-        <tr><td></td><td>PDT</td><td>CEST</td></tr>
         <tr>
           <td>Welcome and Introduction</td>
-          <td>8:50am - 9:00am</td><td>5:50pm - 6:00pm</td>
+          <td>12:50pm - 1:00pm</td>
         </tr>
         <tr>
-          <td>Neural Surface Representations (Niloy Mitra)</td>
-          <td>9:00am - 10:00am</td><td>6:00pm - 7:00pm</td>
+          <td>Keynote Talk 1</td>
+          <td>1:00pm - 1:50pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: Point Cloud Instance Segmentation using Probabilistic Embeddings (Biao Zhang)</td>
-          <td>10:00am - 10:10am</td><td>7:00pm - 7:10pm</td>
+          <td>Winner Talk 1</td>
+          <td>1:50pm - 2:00pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: BPNet (Wenbo Hu) </td>
-          <td>10:10am - 10:20am</td><td>7:10pm - 7:20pm</td>
+          <td>Keynote Talk 2 </td>
+          <td>2:00pm - 2:50pm</td>
         </tr>
         <tr>
-          <td>Winner Talk: Virtual MVFusion (Abhijit Kundu) </td>
-          <td>10:20am - 10:30am</td><td>7:20pm - 7:30pm</td>
+          <td>Winner Talk 2 </td>
+          <td>2:50pm - 3:00pm</td>
         </tr>
         <tr>
-          <td>Offboard 3D Object Detection From Point Cloud Sequences (Charles Qi) </td>
-          <td>10:30am - 11:00am</td><td>7:30pm - 8:00pm</td>
+          <td>Keynote Talk 3 </td>
+          <td>3:00pm - 3:50pm</td>
         </tr>
         <tr>
-          <td>Towards Gigapixel 3D Imaging (Lu Fang) </td>
-          <td>11:00am - 11:30am</td><td>8:00pm - 8:30pm</td>
+          <td>Winner Talk 3 </td>
+          <td>3:50pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Transfer3D: Learning Transferrable Representations of 3D Scenes (Saining Xie)</td> 
-          <td>11:30am - 12:00pm</td><td>8:30pm - 9:00pm</td>
+          <td>Keynote Talk 4</td> 
+          <td>4:00pm - 5:00pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
-          <td>12:00pm - 12:30pm</td><td>9:00pm - 9:30pm</td>
+          <td>5:00pm - 5:45pm</td>
         </tr>
       </tbody>
     </table>
