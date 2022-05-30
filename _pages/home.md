@@ -153,10 +153,9 @@ acknowledgements: ""
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Schedule TBD</h2><!--<h2>Schedule (All times in CDT)</h2> -->
+    <h2>Schedule (All times in CDT)</h2>
   </div>
 </div>
-<!--
 <div class="row">
   <div class="col-xs-12">
      <table class="table table-striped">
@@ -166,32 +165,32 @@ acknowledgements: ""
           <td>12:50pm - 1:00pm</td>
         </tr>
         <tr>
-          <td>Keynote Talk 1</td>
+          <td>Invited Talk: Gim Hee Lee</td>
           <td>1:00pm - 1:50pm</td>
         </tr>
         <tr>
           <td>Winner Talk 1</td>
-          <td>1:50pm - 2:00pm</td>
+          <td>1:50pm - 2:05pm</td>
         </tr>
         <tr>
-          <td>Keynote Talk 2 </td>
-          <td>2:00pm - 2:50pm</td>
-        </tr>
-        <tr>
-          <td>Winner Talk 2 </td>
-          <td>2:50pm - 3:00pm</td>
-        </tr>
-        <tr>
-          <td>Keynote Talk 3 </td>
-          <td>3:00pm - 3:50pm</td>
+          <td>Winner Talk 2</td>
+          <td>2:05pm - 2:20pm</td>
         </tr>
         <tr>
           <td>Winner Talk 3 </td>
-          <td>3:50pm - 4:00pm</td>
+          <td>2:20pm - 2:35pm</td>
         </tr>
         <tr>
-          <td>Keynote Talk 4</td> 
-          <td>4:00pm - 5:00pm</td>
+          <td>Break</td>
+          <td>2:35pm - 3:00pm</td>
+        </tr>
+        <tr>
+          <td>Invited Talk: Francis Engelmann </td>
+          <td>3:00pm - 3:50pm</td>
+        </tr>
+        <tr>
+          <td>Invited Talk: Peter Kontschieder</td> 
+          <td>4:00pm - 4:50pm</td>
         </tr>
         <tr>
           <td>Panel Discussion and Conclusion</td>
@@ -201,7 +200,6 @@ acknowledgements: ""
     </table>
   </div>
 </div>
--->
 
 <br>
 <div class="row" id="speakers">
@@ -210,42 +208,31 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<!--
 <div class="row">
   <div class="col-md-12">
-    <a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/niloy_mitra.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.comp.nus.edu.sg/~leegh/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/gim_hee_lee.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://www0.cs.ucl.ac.uk/staff/n.mitra/">Niloy Mitra</a></b> is a Professor of Geometry Processing in the Department of Computer Science, University College London (UCL). He received his MS and PhD in Electrical Engineering from Stanford University under the guidance of Leonidas Guibas and Marc Levoy, and was a postdoctoral scholar with Helmut Pottmann at Technical University Vienna. His research interests include shape analysis, computational design and fabrication, and geometry processing. Niloy received the 2013 ACM Siggraph Significant New Researcher Award for "his outstanding work in discovery and use of structure and function in 3D objects" (UCL press release), the BCS Roger Needham award (BCS press release) in 2015, and the Eurographics Outstanding Technical Contributions Award in 2019. He received the ERC Starting Grant on SmartGeometry in 2013. His work has twice been featured as research highlights in the Communications of the ACM, twice been selected by ACM Siggraph/Siggraph Asia (both in 2017) for press release as research highlight.
+      <b><a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a></b> is an Associate Professor at the Department of Computer Science at the National University of Singapore (NUS), where he leads the Computer Vision and Robotic Perception (CVRP) Laboratory. He was a researcher at Mitsubishi Electric Research Laboratories (MERL), Cambridge Massachusetts, USA from June 2014 to July 2015. Prior to MERL, he did his PhD in Computer Science at ETH Zurich from January 2009 to March 2014 under the supervision of Prof. Marc Pollefeys. He received his B.Eng with first class honors and M.Eng degrees from the Department of Mechanical Engineering at NUS in June 2005 and February 2008, respectively. He worked at DSO National Laboratories in Singapore as a Member of Technical Staff from August 2007 to December 2008. He has served as an Area Chair for BMVC 2020, 3DV 2020, CVPR 2021, ICCV 2021, BMVC 2021, WACV 2022 and ECCV 2022, and will be part of the organizing committee as one of the Program Chairs for 3DV 2022 and the Exhibition/Demo Chair for CVPR 2023.
     </p>
   </div>
 </div><br>
 <div class="row">
   <div class="col-md-12">
-    <a href="http://charlesrqi.com"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/charles_qi.png" | prepend:site.baseurl }}"></a>
+    <a href="https://francisengelmann.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/francis_engelmann.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="http://charlesrqi.com">Charles Qi</a></b> is a research scientist at Waymo LLC. Previously, he was a postdoctoral researcher at Facebook AI Research (FAIR) and  received his Ph.D. from Stanford University (Stanford AI Lab and Geometric Computation Group), advised by Professor Leonidas J. Guibas. Prior to Stanford, he received his B.Eng. from Tsinghua University. His research focuses on deep learning, computer vision and 3D. He has developed novel deep learning architectures for 3D data (point clouds, volumetric grids and multi-view images) that have wide applications in 3D object classification, object part segmentation, semantic scene parsing, scene flow estimation and 3D reconstruction; such deep architectures have been well adopted by both academic and industrial groups across the world. 
-    </p>
-  </div>
-</div><br>
-
-<div class="row">
-  <div class="col-md-12">
-    <a href="http://www.luvision.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lu_fang.png" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="http://www.luvision.net/">Lu Fang</a></b> is an Associate Professor at Tsinghua University. She received her Ph.D from the Hong Kong University of Science and Technology in 2011, and her B.E. from Univ. of Science and Technology of China in 2007, respectively. Prof. Fang's research interests include computational imaging and 3D vision. Prof. Fang's research has been recognized by the NSFC Excellent Young Scholar Award, Multimedia Rising Star Award in ICME 2019, Best Student Paper Award in ICME 2017, and more. Prof. Fang is an currently IEEE Senior Member, and serving as an Associate Editor for IEEE TMM and TCSVT.
+      <b><a href="https://francisengelmann.github.io/">Francis Engelmann</a></b> is a postdoctoral fellow at the AI Center of ETH Zurich working with Prof. Dr. Siyu Tang and Prof. Dr. Otmar Hilliges. Previously, he completed his Ph.D. in Computer Vision, Machine Learning and 3D Scene Understanding in the Computer Vision Group of Prof. Dr. Bastian Leibe at RWTH Aachen University. His research focuses on 3D scene understanding, human-scene interaction and synthesis.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://vcl.ucsd.edu/~sxie/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/saining_xie.png" | prepend:site.baseurl }}"></a>
+    <a href="https://scholar.google.com/citations?user=CxbDDRMAAAAJ&hl=en"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peter_kontschieder.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://vcl.ucsd.edu/~sxie/">Saining Xie</a></b> is a research scientist at Facebook AI Research (FAIR). He received a PhD in computer science from the University of California San Diego in 2018, advised by Zhuowen Tu. Prior to that, he received his B.S. from Shanghai Jiao Tong University in 2013. He has broad research interests in computer vision and deep learning, with a focus on representation learning for visual recognition in both 2D and 3D. He is a recipient of the Google Ph.D. fellowship in 2017 and the Marr Prize Honorable Mention award at ICCV 2015.
+      <b><a href="https://scholar.google.com/citations?user=CxbDDRMAAAAJ&hl=en">Peter Kontschieder</a></b> is a research scientist manager at Meta. He received his MSc and PhD degrees from the Graz University of Technology, Graz, Austria, in 2008 and 2013, respectively. From 2013-2016, he was a postdoctoral researcher with the Machine Intelligence and Perception Group, Microsoft Research in Cambridge, United Kingdom. In 2016, he joined Mapillary and founded Mapillary Research – Mapillary’s Research Lab focusing on basic research in computer vision and machine learning. With the acquisition of Mapillary in 2020, he became a research scientist manager with Facebook. He received the Marr Prize in 2015 for his contribution of Deep Neural Decision Forests, joining deep learning with decision forests. 
     </p>
   </div>
 </div><br>
--->
 
 <div class="row">
   <div class="col-xs-12">
