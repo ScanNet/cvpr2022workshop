@@ -185,7 +185,7 @@ acknowledgements: ""
           <td>2:35pm - 3:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk: Francis Engelmann </td>
+          <td>Invited Talk: Rethinking 3D Segmentation (Francis Engelmann)</td>
           <td>3:00pm - 3:50pm</td>
         </tr>
         <tr>
@@ -220,7 +220,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://francisengelmann.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/francis_engelmann.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://francisengelmann.github.io/">Francis Engelmann</a></b> is a postdoctoral fellow at the AI Center of ETH Zurich working with Prof. Dr. Siyu Tang and Prof. Dr. Otmar Hilliges. Previously, he completed his Ph.D. in Computer Vision, Machine Learning and 3D Scene Understanding in the Computer Vision Group of Prof. Dr. Bastian Leibe at RWTH Aachen University. His research focuses on 3D scene understanding, human-scene interaction and synthesis.
+      <b><a href="https://francisengelmann.github.io/">Francis Engelmann</a></b> is a post-doctoral research fellow at the ETH AI Center, at the department of Computer Science. His research lies at the intersection of computer vision and deep learning with a special focus on large-scale 3D scene understanding, including semantic instance segmentation, object detection and reconstruction. Before joining ETH Zurich, he received his Ph.D. from RWTH Aachen University and spent some time at Google Munich and Zurich, as well as Apple in California.
     </p>
   </div>
 </div><br>
