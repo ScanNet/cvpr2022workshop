@@ -165,7 +165,7 @@ acknowledgements: ""
           <td>12:50pm - 1:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk: Peter Kontschieder</td>
+          <td>Invited Talk: Ingredients for Mapping the Metaverse (Peter Kontschieder)</td>
           <td>1:00pm - 1:50pm</td>
         </tr>
         <tr>
@@ -189,7 +189,7 @@ acknowledgements: ""
           <td>3:00pm - 3:50pm</td>
         </tr>
         <tr>
-          <td>Invited Talk: Gim Hee Lee</td> 
+          <td>Invited Talk: Towards Data-Efficient and Continual Learning for 3D Scene Understanding (Gim Hee Lee)</td> 
           <td>4:00pm - 4:50pm</td>
         </tr>
         <tr>
