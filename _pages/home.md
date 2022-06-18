@@ -169,15 +169,15 @@ acknowledgements: ""
           <td>1:00pm - 1:50pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 1</td>
+          <td>Winner Talk: One Thing One Click (Zhengzhe Liu) </td>
           <td>1:50pm - 2:05pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2</td>
+          <td>Winner Talk: Mix3D (Alexey Nekrasov)</td>
           <td>2:05pm - 2:20pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 3 </td>
+          <td>Winner Talk: SoftGroup (Thang Vu) </td>
           <td>2:20pm - 2:35pm</td>
         </tr>
         <tr>
