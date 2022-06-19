@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>ScanNet Indoor Scene Understanding Challenge</h1></center>
     <center><h2>CVPR 2022 Workshop, New Orleans, LA</h2></center>
-    <center><h3 style="color:darkblue;font-weight:100">June 19, 2022, Afternoon</h3></center> <!-- location-->
+    <center><h3 style="color:darkblue;font-weight:100">June 19, 2022, Afternoon, 201-202</h3></center> <!-- location-->
   </div>
 </div>
 
